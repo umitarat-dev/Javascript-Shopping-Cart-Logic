@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://umitarat-dev.github.io/Javascript-Shopping-Cart-Logic/">
-    <img src="checkout.gif" alt="Checkout GIF" height="150"/>
+    <img src="checkout.gif" alt="Checkout GIF" height="900"/>
   </a>
 </p>
 
