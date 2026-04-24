@@ -12,24 +12,27 @@
 <h1 align="center">🛒 Javascript-Shopping-Cart-Logic</h1>
 
 <p align="center">
-A dynamic shopping cart application built with vanilla JavaScript, focusing on DOM manipulation and cart logic.
+🛒 Interactive shopping cart application built with Vanilla JavaScript. Demonstrates advanced DOM manipulation using Event Delegation (Capturing/Bubbling), real-time pricing calculations, and Web Storage API integration.
 </p>
 
 <div align="center">
   <h3>
-    <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">
+    <a href="https://umitarat-dev.github.io/Javascript-Shopping-Cart-Logic/">
       🖥️ Live Demo
     </a>
      | 
-    <a href="https://github.com/Umit8098/Project-js-checkout-shopping_cart.git">
+    <a href="https://github.com/umitarat-dev/Javascript-Shopping-Cart-Logic.git">
       📂 Repository
     </a>
  
   </h3>
 </div>
 
-
-![Shopping Cart App](./checkout_app.gif)
+<p align="center">
+  <a href="https://umitarat-dev.github.io/Javascript-Shopping-Cart-Logic/">
+    <img src="checkout.gif" alt="Checkout GIF" height="150"/>
+  </a>
+</p>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -42,7 +45,7 @@ A dynamic shopping cart application built with vanilla JavaScript, focusing on D
 - [🛠️ Built With](#-built-with)
 - [⚡ How To Use](#-how-to-use)
 - [📌 About This Project](#-about-this-project)
-- [📬 Contact](#-contact)
+- [📬 Contact Information](#-contact-information)
 
 <!-- OVERVIEW -->
 
@@ -77,7 +80,7 @@ The project focuses on **DOM manipulation**, **event handling**, and **clean Jav
 ## 🗂️ Project Skeleton
 
 ```
-root/
+.
  │
  |-readme.md   
  │
@@ -102,7 +105,7 @@ root/
 
 ```bash
 # Clone this repository
-git clone https://github.com/Umit8098/Project-js-checkout-shopping_cart.git
+git clone https://github.com/umitarat-dev/Javascript-Shopping-Cart-Logic.git
 
 # Open index.html in your browser
 ```
@@ -118,11 +121,10 @@ This project was created to practice and demonstrate:
 It serves as a strong foundation before moving on to frameworks like React.
 
 
-## 📬 Contact
+## 📬 Contact Information
 
-<!-- - Website [your-website.com](https://{your-web-site-link}) -->
-- GitHub [@Umit8098](https://github.com/Umit8098)
+I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-- Linkedin [@umit-arat](https://linkedin.com/in/umit-arat/)
-<!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
-
+* **LinkedIn:** [linkedin.com/in/umit-arat](https://www.linkedin.com/in/umit-arat/)
+* **Email:** [umitarat8098@gmail.com](mailto:umitarat8098@gmail.com)
+* **GitHub:** [github.com/umitarat-dev](https://github.com/umitarat-dev) (Current Workspace)
