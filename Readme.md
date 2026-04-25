@@ -12,7 +12,7 @@
 <h1 align="center">🛒 Javascript-Shopping-Cart-Logic</h1>
 
 <p align="center">
-🛒 Interactive shopping cart application built with Vanilla JavaScript. Demonstrates advanced DOM manipulation using Event Delegation (Capturing/Bubbling), real-time pricing calculations, and Web Storage API integration.
+Interactive shopping cart application built with Vanilla JavaScript. Demonstrates advanced DOM manipulation using Event Delegation (Capturing/Bubbling), real-time pricing calculations, and Web Storage API integration.
 </p>
 
 <div align="center">
